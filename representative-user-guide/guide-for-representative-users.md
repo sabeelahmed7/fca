@@ -11,7 +11,7 @@ description: >-
 > * **Username Display**: Your username is shown at the top right corner.
 > * **Dashboard Menu**: Located just below the dashboard title, this menu allows you to switch between the KPIs and Initiatives lists.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. In the "KPIs" tab, find the KPI for which you are responsible.&#x20;
 2. #### Update the KPI

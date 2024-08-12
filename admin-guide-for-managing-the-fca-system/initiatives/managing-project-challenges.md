@@ -19,7 +19,7 @@ description: >-
 ## Adding a Project Challenge
 
 1. Navigate to the management menu in the application interface.\
-   ![](../../.gitbook/assets/image.png)
+   ![](<../../.gitbook/assets/image (5).png>)
 2. Click on the **(+) icon button** located at the top right of the "Project Challenge" section.\
    ![](<../../.gitbook/assets/image (77).png>)
 3. **Fill Out the Challenge Form**
@@ -27,7 +27,7 @@ description: >-
      * **Description (English)**: Provide a detailed description of the risk in English.
      * **Description (Arabic)**: Provide a detailed description of the risk in Arabic.
      * **Owner**: Select the owner responsible for managing this challenge.\
-       ![](<../../.gitbook/assets/image (2).png>)
+       ![](<../../.gitbook/assets/image (2) (1).png>)
      * **Deadline**: Set the deadline for addressing this challenge.
      * **Level**: Choose the risk level (e.g., High, Medium, Low).
      * **Status**: Select the current status of the challenge.\

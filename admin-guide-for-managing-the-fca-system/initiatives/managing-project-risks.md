@@ -19,9 +19,9 @@ description: >-
 ## Adding a Project Risk
 
 1. Navigate to the management menu in the application interface.\
-   ![](../../.gitbook/assets/image.png)
+   ![](<../../.gitbook/assets/image (5).png>)
 2. Click on the **(+) icon button** located at the top right of the "Project Risks" section.\
-   ![](<../../.gitbook/assets/image (1).png>)
+   ![](<../../.gitbook/assets/image (1) (1).png>)
 3. **Fill Out the Risk Form**
    * Complete the required fields in the Risk form:
      * **Title (English)**: Enter the risk title in English.
@@ -29,17 +29,17 @@ description: >-
      * **Description (English)**: Provide a detailed description of the risk in English.
      * **Description (Arabic)**: Provide a detailed description of the risk in Arabic.
      * **Owner**: Select the owner responsible for managing this risk.\
-       ![](<../../.gitbook/assets/image (2).png>)
+       ![](<../../.gitbook/assets/image (2) (1).png>)
      * **Deadline**: Set the deadline for addressing this risk.
      * **Level**: Choose the risk level (e.g., High, Medium, Low).
      * **Status**: Select the current status of the risk.\
-       ![](<../../.gitbook/assets/image (3).png>)
+       ![](<../../.gitbook/assets/image (3) (1).png>)
 4.  **Submit the Risk**
 
     * After completing the form, click on the "Submit" button to save the risk.
     * The risk will now be added to the project risks list.
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Viewing and Editing a Project Risk
 
