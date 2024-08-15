@@ -1,6 +1,6 @@
 # Table of contents
 
-* [✳️ Welcome to FCA Strategia](README.md)
+* [Welcome to FCA Strategia](README.md)
 
 ## Admin Guide for Managing the FCA System
 

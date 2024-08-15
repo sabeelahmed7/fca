@@ -2,6 +2,7 @@
 description: >-
   A Strategy Management Solution streamlines strategic planning and performance
   tracking, aiding data-driven decision-making for organizational success.
+icon: circle-notch
 cover: .gitbook/assets/FAMILY+CARE+4.png
 coverY: -190.24817518248173
 layout:
@@ -20,7 +21,7 @@ layout:
     visible: true
 ---
 
-# ✳️ Welcome to FCA Strategia
+# Welcome to FCA Strategia
 
 ## Quick links
 
