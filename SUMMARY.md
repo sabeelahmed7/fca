@@ -9,6 +9,7 @@
 * [💹 KPI's](admin-guide-for-managing-the-fca-system/kpis/README.md)
   * [🟢 Objectives KPIs](admin-guide-for-managing-the-fca-system/kpis/objectives-kpis.md)
   * [🟢 Enablers KPIs](admin-guide-for-managing-the-fca-system/kpis/enablers-kpis.md)
+  * [⏸️ Dynamic Formula Builder](admin-guide-for-managing-the-fca-system/kpis/dynamic-formula-builder.md)
 * [🔆 Initiatives](admin-guide-for-managing-the-fca-system/initiatives/README.md)
   * [🟠 Objectives Initiatives](admin-guide-for-managing-the-fca-system/initiatives/objectives-initiatives.md)
   * [🟠 Enablers Initiatives](admin-guide-for-managing-the-fca-system/initiatives/enablers-initiatives.md)
