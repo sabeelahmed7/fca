@@ -1,3 +1,9 @@
+---
+description: >-
+  Dynamic Formula Builder to create and validate formulas within the system,
+  reducing the risk of errors and enhancing overall productivity.
+---
+
 # ⏸️ Dynamic Formula Builder
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
