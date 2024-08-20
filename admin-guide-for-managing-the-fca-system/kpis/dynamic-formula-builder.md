@@ -31,10 +31,13 @@
     * Paste the parameter into the formula field within curly braces `{}`.
 
     <figure><img src="../../.gitbook/assets/image (95).png" alt="" width="322"><figcaption></figcaption></figure>
-* **Step 4: Validate the Formula**
-  * After assembling the formula with the necessary parameters, validate it by entering test values in the **Parameters** section.
-  * The **Preview Formula** will display the calculated result, ensuring that the formula is functioning correctly.
-  * If the formula is valid, a success message will appear.
+*   **Step 4: Validate the Formula**
+
+    * After assembling the formula with the necessary parameters, validate it by entering test values in the **Parameters** section.
+    * The **Preview Formula** will display the calculated result, ensuring that the formula is functioning correctly.
+    * If the formula is valid, a success message will appear.
+
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## **Submitting and Saving the Formula**
 

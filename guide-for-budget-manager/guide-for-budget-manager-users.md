@@ -15,7 +15,7 @@ Budget managers can maintain accurate records by regularly reviewing and updatin
 
 > The Budget Manager dashboard provides a comprehensive view of the budget management process for various initiatives. Users can monitor and control budgets by sectors, sections, and quarters, ensuring that financial resources are allocated and utilized effectively.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Sector and Section Selection**
 
@@ -39,7 +39,7 @@ The cap is critical in managing budget flexibility and ensuring that spending al
 
 This section provides a quick snapshot of budget status, helping users to stay informed about current spending levels.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Budget Indicators**
 
