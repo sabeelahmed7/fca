@@ -21,7 +21,7 @@ description: >-
 1. Navigate to the management menu in the application interface.\
    ![](<../../.gitbook/assets/image (5).png>)
 2. Click on the **(+) icon button** located at the top right of the "Project Risks" section.\
-   ![](<../../.gitbook/assets/image (1) (1) (1).png>)
+   ![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 3. **Fill Out the Risk Form**
    * Complete the required fields in the Risk form:
      * **Title (English)**: Enter the risk title in English.
