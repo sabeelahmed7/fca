@@ -1,8 +1,8 @@
 ---
+icon: circle-notch
 description: >-
   A Strategy Management Solution streamlines strategic planning and performance
   tracking, aiding data-driven decision-making for organizational success.
-icon: circle-notch
 cover: .gitbook/assets/FAMILY+CARE+4.png
 coverY: -190.24817518248173
 layout:
@@ -45,6 +45,12 @@ layout:
 
 {% content-ref url="admin-guide-for-managing-the-fca-system/kpis/enablers-kpis.md" %}
 [enablers-kpis.md](admin-guide-for-managing-the-fca-system/kpis/enablers-kpis.md)
+{% endcontent-ref %}
+
+## Dynamic Formula Calculator for KPI
+
+{% content-ref url="admin-guide-for-managing-the-fca-system/kpis/dynamic-formula-builder.md" %}
+[dynamic-formula-builder.md](admin-guide-for-managing-the-fca-system/kpis/dynamic-formula-builder.md)
 {% endcontent-ref %}
 
 ## Initiatives

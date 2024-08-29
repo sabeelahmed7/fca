@@ -11,26 +11,41 @@ description: >-
 > * **Username Display**: Your username is shown at the top right corner.
 > * **Dashboard Menu**: Located just below the dashboard title, this menu allows you to switch between the KPIs and Initiatives lists.
 
+{% hint style="info" %}
+In the "KPIs" tab, find the KPI for which you are responsible.&#x20;
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. In the "KPIs" tab, find the KPI for which you are responsible.&#x20;
-2. #### Update the KPI
-   1. **Initiate Update:**
-      * Click on the "Update" button or the right arrow icon next to the KPI you want to update. This will open the detailed KPI update screen.
-3. **Enter KPI Details:**
-   * On the KPI update screen, fill in the required fields such as description, objective, and KPI owner details. Update the performance indicators and any other relevant information.
-4. **Result Value (Achieved):**
-   * Enter the achieved percentage value for the set KPI target in the "Result Value (Achieved)" field.
-   * If necessary, set the appropriate flag from the dropdown menu to categorize the KPI result.
-5. Provide a brief description in English in the "Description (English) and (Arabic).
-6. Set the date and time for the result entry in the "Result DateTime" field.
-7. **Attachments:**
+## Update the KPI
+
+1. **Initiate Update:**
+   * Click on the "Update" button or the right arrow icon next to the KPI you want to update. This will open the detailed KPI update screen.
+2. **Result Value (Achieved):**
+   1. The system will automatically calculate the **Result Value (Achieved)** based on the provided parameters.
+   2. **Review** the result to ensure it aligns with expectations.
+   3. If necessary, set the appropriate flag from the dropdown menu to categorize the KPI result.
+
+## **Provide Analysis**
+
+1. **Analysis (English)**:
+   * Enter your analysis or remarks regarding the result in the provided text box.
+   * Example: "Result achieved."
+2. **Analysis (Arabic)**:
+   * Enter the corresponding analysis in Arabic if applicable.
+3. Set the date and time for the result entry in the "Result DateTime" field.
+4. **Attachments:**
    * If applicable, attach any supporting documents or evidence by clicking the plus icon in the "Attachment" section.
-8. Ensure all entered values and descriptions are correct. Remember, once submitted for review, you cannot make changes.\
-   ![](<../.gitbook/assets/image (6).png>)
-9. Click the "SEND FOR REVIEW" button to submit the updated KPI results for review.
-10. A confirmation message will indicate that the KPI result has been submitted successfully.
-11. Go back to the KPI indicator list. The status of the updated KPI should now be "InReview," as shown in the indicators section.
+5. Ensure all entered values and Analysis are correct. Remember, once submitted for review, you cannot make changes.\
+   ![](<../.gitbook/assets/image (96).png>)
+
+## **Finalize the Update**
+
+1. **Save** the result by clicking the "SAVE" button if you are not ready to submit the result for review.
+2. **Send for Review**:
+   * If the result is final and ready for submission, click the "SEND FOR REVIEW" button.
+
+* Go back to the KPI indicator list. The status of the updated KPI should now be "InReview," as shown in the indicators section.
 
 ## Dashboard View
 
@@ -71,11 +86,3 @@ Ensure that the KPI status is marked as "In Progress" with an orange highlighter
 * **Review Changes:** Double-check the information you enter to avoid errors during modification.
 * **Permission Levels:** Ensure you have the necessary permissions to modify or delete entries in the application.
 {% endhint %}
-
-<details>
-
-<summary>References</summary>
-
-<img src="../.gitbook/assets/image (70).png" alt="" data-size="original">
-
-</details>
