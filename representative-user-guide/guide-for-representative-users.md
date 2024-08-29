@@ -26,6 +26,8 @@ In the "KPIs" tab, find the KPI for which you are responsible.&#x20;
    2. **Review** the result to ensure it aligns with expectations.
    3. If necessary, set the appropriate flag from the dropdown menu to categorize the KPI result.
 
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+
 ## **Provide Analysis**
 
 1. **Analysis (English)**:
@@ -36,8 +38,9 @@ In the "KPIs" tab, find the KPI for which you are responsible.&#x20;
 3. Set the date and time for the result entry in the "Result DateTime" field.
 4. **Attachments:**
    * If applicable, attach any supporting documents or evidence by clicking the plus icon in the "Attachment" section.
-5. Ensure all entered values and Analysis are correct. Remember, once submitted for review, you cannot make changes.\
-   ![](<../.gitbook/assets/image (96).png>)
+5. Ensure all entered values and Analysis are correct. Remember, once submitted for review, you cannot make changes.
+
+<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 ## **Finalize the Update**
 
