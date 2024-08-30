@@ -27,7 +27,7 @@ description: >-
      * **Description (English)**: Provide a detailed description of the risk in English.
      * **Description (Arabic)**: Provide a detailed description of the risk in Arabic.
      * **Owner**: Select the owner responsible for managing this challenge.\
-       ![](<../../.gitbook/assets/image (2) (1).png>)
+       ![](<../../.gitbook/assets/image (2) (1) (1).png>)
      * **Deadline**: Set the deadline for addressing this challenge.
      * **Level**: Choose the risk level (e.g., High, Medium, Low).
      * **Status**: Select the current status of the challenge.\

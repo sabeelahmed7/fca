@@ -50,7 +50,7 @@ In the "KPIs" tab, find the KPI for which you are responsible.&#x20;
 
 * Go back to the KPI indicator list. The status of the updated KPI should now be "InReview," as shown in the indicators section.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Dashboard View
 

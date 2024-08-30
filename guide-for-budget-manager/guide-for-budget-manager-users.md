@@ -15,7 +15,7 @@ Budget managers can maintain accurate records by regularly reviewing and updatin
 
 > The Budget Manager dashboard provides a comprehensive view of the budget management process for various initiatives. Users can monitor and control budgets by sectors, sections, and quarters, ensuring that financial resources are allocated and utilized effectively.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Sector and Section Selection**
 
@@ -39,7 +39,7 @@ The cap is critical in managing budget flexibility and ensuring that spending al
 
 This section provides a quick snapshot of budget status, helping users to stay informed about current spending levels.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Budget Indicators**
 
@@ -51,7 +51,7 @@ This section provides a quick snapshot of budget status, helping users to stay i
 
 This feature helps users to track budget performance across different periods and take corrective actions if necessary.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Budget Pre-List Management**
 
@@ -62,7 +62,7 @@ This feature helps users to track budget performance across different periods an
 
 Users can create and modify budget pre-lists, ensuring that budget distribution aligns with strategic priorities.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Quarterly Budget Management**
 

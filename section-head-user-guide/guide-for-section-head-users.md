@@ -1,7 +1,5 @@
 ---
-description: >-
-  The dashboard provides an overview of the KPIs (Key Performance Indicators)
-  and Initiatives relevant to your role.
+description: Reviewing and Updating KPI/Initiative Results
 ---
 
 # 🟢 Guide for Section Head Users
@@ -41,20 +39,52 @@ description: >-
    * Review the request details thoroughly.
    * Approve or reject the request based on the data provided.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## **Preview Indicators**
+
+1.  **Click on the "Update" Button** next to the relevant KPI or Initiative (refer to **Screenshot**).
+
+    * This action will open a detailed view of the indicators associated with the selected KPI or Initiative.
+
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+## **Review the Results**
+
+* **Review Indicators:**
+  * Based on the percentage and result achieved as shown in the indicators, analyze the performance (refer to **Screenshot 2**).
+* **Evaluate the Data:**
+  * Check all the details filled in by the representative user, including the analysis and any attached documents.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+## **Review and Analyze Results**
+
+* An **Update Result** screen will appear. This screen allows you to review the details submitted by the previous user.
+  * **Parameters:** Check the values entered under "Parameters."
+  * **Result Value (Achieved):** Review the achieved result percentage.
+  * **Attachments:** If any attachments are provided, review them for supporting documentation.
+  * **Analysis:** Read through the analysis provided in both English and Arabic (if applicable).
+
+## **Approve or Reject the KPI/Initiative**
+
+* Based on your review, you have two options:
+  * **Approve:** Click the "Approve" button if the KPI or Initiative meets the required standards. This action will forward the KPI/Initiative to the Division Head for further review.
+  * **Reject:** Click the "Reject" button if the KPI or Initiative does not meet the standards. This action will send it back to the previous user (Representative) for corrections.
+
 ## Tips
 
 {% hint style="info" %}
-#### Tips for Users
+#### :thumbsup:
 
-* **Backup Information:** Always ensure that you have a backup of important information before making modifications or deletions.
-* **Review Changes:** Double-check the information you enter to avoid errors during modification.
-* **Permission Levels:** Ensure you have the necessary permissions to modify or delete entries in the application.
+1. **Ensure Correct User Login:**
+   * Always verify that you are logged in with the appropriate credentials to access the correct KPIs or Initiatives.
+2. **Thoroughly Review Data:**
+   * Before making any decisions, carefully review all data fields, analysis notes, and attachments to ensure accuracy.
+3. **Use Descriptive Analysis:**
+   * When providing analysis, use clear and descriptive language that can be easily understood by the next reviewer.
+4. **Double-Check Calculations:**
+   * Verify that the calculation methods used in deriving the result percentages are correct and consistent with the set formulas.
+5. **Prompt Feedback on Errors:**
+   * If rejecting a KPI or Initiative, provide clear feedback on what needs correction to avoid repeated errors.
 {% endhint %}
-
-<details>
-
-<summary>References</summary>
-
-<img src="../.gitbook/assets/image (70).png" alt="" data-size="original">
-
-</details>
