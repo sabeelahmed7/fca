@@ -45,13 +45,13 @@ This section provides a quick snapshot of budget status, helping users to stay i
 
 * **Step 8:** In the **Budget Indicators** section, review the planned spending, actual spending, and status for each quarter (e.g., Q1-2024, Q2-2024).
 * **Step 9:** Update the status as needed, which will be reflected with corresponding colors indicating:
-  * **Under Spending:** Yellow (e.g., 80% Achieved)
-  * **Achieved:** Green (e.g., 100% Achieved)
-  * **Over Spending:** Red (e.g., 112% Achieved)
+  * **Under Spending:** <mark style="background-color:yellow;">**Yellow**</mark> (e.g., 80% Achieved)
+  * **Achieved:** <mark style="background-color:green;">**Green**</mark> (e.g., 100% Achieved)
+  * **Over Spending:** <mark style="background-color:red;">**Red**</mark> (e.g., 112% Achieved)
 
 This feature helps users to track budget performance across different periods and take corrective actions if necessary.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 ## **Budget Pre-List Management**
 
