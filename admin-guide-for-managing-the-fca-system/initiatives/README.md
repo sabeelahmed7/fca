@@ -1,5 +1,7 @@
 ---
-description: By following these steps, you will be able to create a KPI in a systematic
+description: >-
+  By following these steps, you will be able to create a Initiatives in a
+  systematic
 ---
 
 # 🔆 Initiatives
@@ -9,12 +11,12 @@ description: By following these steps, you will be able to create a KPI in a sys
 * Open the system and log in with your admin credentials.
 * You will land on the **Admin Dashboard**, where you can manage various sections of the system.
 
-## **Expand the KPI Section** <a href="#expand-the-kpi-section" id="expand-the-kpi-section"></a>
+## **Expand the** Initiatives **Section** <a href="#expand-the-kpi-section" id="expand-the-kpi-section"></a>
 
 * On the left-side menu, locate and expand the **Initiative** section by clicking on it.
-* Two Types of INITIATIVES will appear:
-  * **Objective Initiative**
-  * **Enabler Initiative**
+* Two Types of Initiatives will appear:
+  * **Objective Initiatives**
+  * **Enabler Initiatives**
 
 <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
@@ -69,6 +71,14 @@ description: By following these steps, you will be able to create a KPI in a sys
 * Follow the form prompts to enter the **Initiative** details and assign it to the appropriate objective and division.
 
 <figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="objectives-initiatives.md" %}
+[objectives-initiatives.md](objectives-initiatives.md)
+{% endcontent-ref %}
+
+{% content-ref url="enablers-initiatives.md" %}
+[enablers-initiatives.md](enablers-initiatives.md)
+{% endcontent-ref %}
 
 ## Tips
 
