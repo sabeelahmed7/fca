@@ -39,7 +39,7 @@ description: Reviewing and Updating KPI/Initiative Results
    * Review the request details thoroughly.
    * Approve or reject the request based on the data provided.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **Preview Indicators**
 
@@ -47,7 +47,7 @@ description: Reviewing and Updating KPI/Initiative Results
 
     * This action will open a detailed view of the indicators associated with the selected KPI or Initiative.
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Review the Results**
 
@@ -56,7 +56,7 @@ description: Reviewing and Updating KPI/Initiative Results
 * **Evaluate the Data:**
   * Check all the details filled in by the representative user, including the analysis and any attached documents.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Review and Analyze Results**
 

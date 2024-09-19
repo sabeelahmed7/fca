@@ -17,6 +17,7 @@
   * [⭕ Managing Project Risks](admin-guide-for-managing-the-fca-system/initiatives/managing-project-risks.md)
   * [✳️ Managing Project Challenges](admin-guide-for-managing-the-fca-system/initiatives/managing-project-challenges.md)
 * [🟣 Enablers](admin-guide-for-managing-the-fca-system/enablers.md)
+* [System Reminders](admin-guide-for-managing-the-fca-system/system-reminders.md)
 
 ## Guide for Budget Manager
 

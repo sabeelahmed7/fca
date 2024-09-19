@@ -43,7 +43,7 @@ description: >-
     * The **Preview Formula** will display the calculated result, ensuring that the formula is functioning correctly.
     * If the formula is valid, a success message will appear.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Submitting and Saving the Formula**
 
