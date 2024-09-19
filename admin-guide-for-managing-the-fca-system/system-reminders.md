@@ -1,9 +1,9 @@
 ---
+icon: gear
 description: >-
   The feature is crucial in managing automated email notifications within the
   system. It allows Admin to configure reminders that trigger based on set
   intervals, ensuring timely actions by user.
-icon: gear
 ---
 
 # System Reminders
@@ -48,7 +48,7 @@ To create a new system reminder, follow these steps:
 5. Ensure that the **estimated date** corresponds correctly to when the reminder should trigger.
 6. On the **estimated date**, the system will automatically send the email notification to the relevant department or sector users.
 
-## User Tipes
+## User Tips
 
 {% hint style="info" %}
 1. **Ensure Correct Interval Days**: Always double-check the interval days to avoid reminders being sent too early or too late. A wrong interval can misalign with deadlines.
