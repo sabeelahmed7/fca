@@ -4,6 +4,36 @@ description: Follow these steps to successfully add a new user to your system
 
 # 👨 How to Add new user
 
+## **Accessing to the Users Menu**
+
+* Open the admin portal and log in using your credentials.
+* Ensure you are logging in with an **Admin user account**, as only admin users have access to manage users.
+
+<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+
+**Expand the Navigation Menu**
+
+* Once logged in, locate the **navigation menu** on the left-hand side.
+* Click on the **menu icon** to expand the list of available sections.
+
+#### **Access the Users Menu**
+
+* From the navigation menu, locate and click on the **"Users"** option.
+* This action will open the **Users Management page**, displaying the list of existing users.
+
+#### **View and Search Users**
+
+* On the **Users Management page**, you will see:
+  * A **search bar** for filtering users by name, email, or other criteria.
+  * A list of users along with their **roles** (e.g., Admin, Editor, Viewer).
+
+#### **Add a New User**
+
+* To create a new user, click the **"+" (Add User)** button located at the top-right corner of the Users page.
+* A **New User form** will appear as a popup.
+
+<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 ## Add new user
