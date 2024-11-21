@@ -25,12 +25,12 @@ layout:
 
 ## Quick links
 
-{% content-ref url="admin-guide-for-managing-the-fca-system/how-to-add-new-user.md" %}
-[how-to-add-new-user.md](admin-guide-for-managing-the-fca-system/how-to-add-new-user.md)
+{% content-ref url="admin-guide-for-managing-the-fca-system/how-to-add-a-new-user.md" %}
+[how-to-add-a-new-user.md](admin-guide-for-managing-the-fca-system/how-to-add-a-new-user.md)
 {% endcontent-ref %}
 
-{% content-ref url="admin-guide-for-managing-the-fca-system/to-add-operational-budget.md" %}
-[to-add-operational-budget.md](admin-guide-for-managing-the-fca-system/to-add-operational-budget.md)
+{% content-ref url="admin-guide-for-managing-the-fca-system/managing-operational-budgets.md" %}
+[managing-operational-budgets.md](admin-guide-for-managing-the-fca-system/managing-operational-budgets.md)
 {% endcontent-ref %}
 
 {% content-ref url="admin-guide-for-managing-the-fca-system/enablers.md" %}
@@ -79,26 +79,26 @@ layout:
 
 ## User Guides
 
-{% content-ref url="representative-user-guide/guide-for-representative-users.md" %}
-[guide-for-representative-users.md](representative-user-guide/guide-for-representative-users.md)
+{% content-ref url="representative-user-guide/user-guide-for-representatives.md" %}
+[user-guide-for-representatives.md](representative-user-guide/user-guide-for-representatives.md)
 {% endcontent-ref %}
 
 {% content-ref url="section-head-user-guide/guide-for-section-head-users.md" %}
 [guide-for-section-head-users.md](section-head-user-guide/guide-for-section-head-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="division-head-user-guide/guide-for-division-head-users.md" %}
-[guide-for-division-head-users.md](division-head-user-guide/guide-for-division-head-users.md)
+{% content-ref url="division-head-user-guide/user-guide-for-division-heads.md" %}
+[user-guide-for-division-heads.md](division-head-user-guide/user-guide-for-division-heads.md)
 {% endcontent-ref %}
 
-{% content-ref url="sector-head-user-guide/guide-for-sector-head-users.md" %}
-[guide-for-sector-head-users.md](sector-head-user-guide/guide-for-sector-head-users.md)
+{% content-ref url="sector-head-user-guide/user-guide-for-sector-heads.md" %}
+[user-guide-for-sector-heads.md](sector-head-user-guide/user-guide-for-sector-heads.md)
 {% endcontent-ref %}
 
-{% content-ref url="dg-officer-user-guide/guide-for-dg-officer-users.md" %}
-[guide-for-dg-officer-users.md](dg-officer-user-guide/guide-for-dg-officer-users.md)
+{% content-ref url="dg-officer-user-guide/user-guide-for-dg-officers.md" %}
+[user-guide-for-dg-officers.md](dg-officer-user-guide/user-guide-for-dg-officers.md)
 {% endcontent-ref %}
 
-{% content-ref url="strategy-manager-user-guide/guide-for-strategy-manager-users.md" %}
-[guide-for-strategy-manager-users.md](strategy-manager-user-guide/guide-for-strategy-manager-users.md)
+{% content-ref url="strategy-manager-user-guide/user-guide-for-strategy-managers.md" %}
+[user-guide-for-strategy-managers.md](strategy-manager-user-guide/user-guide-for-strategy-managers.md)
 {% endcontent-ref %}

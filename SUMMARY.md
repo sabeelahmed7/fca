@@ -4,8 +4,8 @@
 
 ## Admin Guide for Managing the FCA System
 
-* [👨 How to Add new user](admin-guide-for-managing-the-fca-system/how-to-add-new-user.md)
-* [💰 To add Operational Budget](admin-guide-for-managing-the-fca-system/to-add-operational-budget.md)
+* [👨 How to Add a New User](admin-guide-for-managing-the-fca-system/how-to-add-a-new-user.md)
+* [💰 Managing Operational Budgets](admin-guide-for-managing-the-fca-system/managing-operational-budgets.md)
 * [💹 KPI's](admin-guide-for-managing-the-fca-system/kpis/README.md)
   * [🟢 Objectives KPIs](admin-guide-for-managing-the-fca-system/kpis/objectives-kpis.md)
   * [🟢 Enablers KPIs](admin-guide-for-managing-the-fca-system/kpis/enablers-kpis.md)
@@ -17,15 +17,15 @@
   * [⭕ Managing Project Risks](admin-guide-for-managing-the-fca-system/initiatives/managing-project-risks.md)
   * [✳️ Managing Project Challenges](admin-guide-for-managing-the-fca-system/initiatives/managing-project-challenges.md)
 * [🟣 Enablers](admin-guide-for-managing-the-fca-system/enablers.md)
-* [System Reminders](admin-guide-for-managing-the-fca-system/system-reminders.md)
+* [System Reminders and Notifications](admin-guide-for-managing-the-fca-system/system-reminders-and-notifications.md)
 
 ## Guide for Budget Manager
 
-* [🟢 Guide for Budget manager Users](guide-for-budget-manager/guide-for-budget-manager-users.md)
+* [🟢 User Guide for Budget Managers](guide-for-budget-manager/user-guide-for-budget-managers.md)
 
 ## Representative user Guide
 
-* [🟢 Guide for Representative Users](representative-user-guide/guide-for-representative-users.md)
+* [🟢 User Guide for Representatives](representative-user-guide/user-guide-for-representatives.md)
 
 ## Section Head User Guide
 
@@ -33,19 +33,19 @@
 
 ## Division Head User Guide
 
-* [🟢 Guide for Division Head Users](division-head-user-guide/guide-for-division-head-users.md)
+* [🟢 User Guide for Division Heads](division-head-user-guide/user-guide-for-division-heads.md)
 
 ## Sector Head User Guide
 
-* [🟢 Guide for Sector Head Users](sector-head-user-guide/guide-for-sector-head-users.md)
+* [🟢 User Guide for Sector Heads](sector-head-user-guide/user-guide-for-sector-heads.md)
 
 ## DG Officer User Guide
 
-* [🟢 Guide for DG Officer Users](dg-officer-user-guide/guide-for-dg-officer-users.md)
+* [🟢 User Guide for DG Officers](dg-officer-user-guide/user-guide-for-dg-officers.md)
 
 ## Strategy Manager User Guide
 
-* [🟢 Guide for Strategy Manager Users](strategy-manager-user-guide/guide-for-strategy-manager-users.md)
+* [🟢 User Guide for Strategy Managers](strategy-manager-user-guide/user-guide-for-strategy-managers.md)
 
 ## Help and Support
 
