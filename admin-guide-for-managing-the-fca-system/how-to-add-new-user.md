@@ -21,6 +21,8 @@ description: Follow these steps to successfully add a new user to your system
 * From the navigation menu, locate and click on the **"Users"** option.
 * This action will open the **Users Management page**, displaying the list of existing users.
 
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+
 #### **View and Search Users**
 
 * On the **Users Management page**, you will see:
