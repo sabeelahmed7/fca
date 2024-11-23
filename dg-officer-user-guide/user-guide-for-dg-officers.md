@@ -4,7 +4,7 @@ description: >-
   results and submit them for review.
 ---
 
-# 🟢 Guide for DG Officer Users
+# 🟢 User Guide for DG Officers
 
 <figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,11 +19,3 @@ description: >-
 * **Review Changes:** Double-check the information you enter to avoid errors during modification.
 * **Permission Levels:** Ensure you have the necessary permissions to modify or delete entries in the application.
 {% endhint %}
-
-<details>
-
-<summary>References</summary>
-
-<img src="../.gitbook/assets/image (70).png" alt="" data-size="original">
-
-</details>
