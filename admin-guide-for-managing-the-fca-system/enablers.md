@@ -4,9 +4,35 @@ description: 'Creating an Enabler: Step-by-Step Guide'
 
 # 🟣 Enablers
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+## **Accessing the Administrator Panel**
 
-## Adding Enablers
+1. **Login**:
+   * Open the "Family Care Authority" portal.
+   * Enter your credentials and log in to access the dashboard.
+2. **Locate the Sidebar**:
+   * After logging in, navigate to the left-hand sidebar.
+   * Identify the **"Administrator"** tab (indicated by a user icon). This section allows you to manage your profile.
+
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+
+## **Navigating to the Enablers Section**
+
+1. **Expand the Menu**:
+   * In the sidebar menu, look for the **"Enablers"** option. It may be nested under other categories such as "Initiatives." Click to expand if needed.
+   * The **"Enablers"** section is clearly marked with an icon resembling organizational nodes.
+2. **Open Enablers**:
+   * Click on the **"Enablers"** option to access the enabler management panel.
+
+<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+
+## **Adding a New Enabler**
+
+1. **Locate the Add Button**:
+   * In the **Enablers** section, find the **“+ ENABLERS”** button at the top.
+
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 1. Navigate to the section of your application where you can add an enabler. You should see a form similar to the screenshot above:
 2.  #### Fill in the Enabler Details
