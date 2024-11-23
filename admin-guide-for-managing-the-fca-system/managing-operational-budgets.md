@@ -4,11 +4,31 @@ description: >-
   Budget"
 ---
 
-# 💰 To add Operational Budget
+# 💰 Managing Operational Budgets
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+## **Access the Main Navigation Menu**
+
+1. Locate the **Main Navigation Menu** on the left-hand side of the interface.
+   * **Tip:** Click on the **three horizontal lines icon** (hamburger menu) at the top left to expand or collapse the menu.
+2. Ensure you are logged in as an administrator or a user with the required permissions.
+
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+
+## **Navigate to the Budget Section**
+
+1. From the expanded menu, scroll down and select the **"Budget"** option.
+   * The menu icon for **Budget** resembles a **dollar sign** ($).
+   * **Tip:** Hover over the icons to display their labels for easy identification.
+
+<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+
+2. Click on the green icon with a **(+)** sign to add a new operational budget.
+
+<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 ## Add Operational Budget
+
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 1. Click on the dropdown menu labeled "Select Sector",  and Choose the appropriate sector from the list.\
    ![](<../.gitbook/assets/image (33).png>)
